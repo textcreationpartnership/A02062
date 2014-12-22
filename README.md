@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-An answere to maister Smyth seruaunt to the kynges most royall maiestye, and clerke of the Quenes gr
+
+1. An answere to maister Smyth seruaunt to the kynges most royall maiestye. And clerke of the Quenes graces counsell / though most vnworthy.
+
 #####Back#####
-An answere to maister Smyth seruaunt to the kynges most royall maiestye, and clerke of the Quenes gr
+¶ Imprinted at London by me Rychard Bankes / Cum priuilegio ad imprimendum solum. And be to be solde
 **Types of content**
 
   * There are 95 **verse** lines!
